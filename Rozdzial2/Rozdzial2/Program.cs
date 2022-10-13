@@ -8,11 +8,11 @@ namespace ProgramowanieObiektowe
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Zad 1:\n");
+            Console.WriteLine("Zad 1. Przeliczanie temperatury z stopni C na stopnie F:\n");
             Rozdzial2.Zadanie1();
-            Console.WriteLine("\nZad 2:\n");
+            Console.WriteLine("\nZad 2. Obliczenie delty równiania kwadratowego:\n");
             Rozdzial2.Zadanie2();
-            Console.WriteLine("\nZad 3:\n");
+            Console.WriteLine("\nZad 3. Obliczenie wartości BMI:\n");
             Rozdzial2.Zadanie3();
         }
 

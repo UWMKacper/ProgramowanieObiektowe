@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\galli\\Desktop\\Programowanie_obiektowe\\Rozdzial2\\Rozdzial2\\Rozdzial2.csproj": {}
+    "C:\\Users\\Stan\\Desktop\\ProgramowanieObiektowe\\Rozdzial2\\Rozdzial2\\Rozdzial2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\galli\\Desktop\\Programowanie_obiektowe\\Rozdzial2\\Rozdzial2\\Rozdzial2.csproj": {
+    "C:\\Users\\Stan\\Desktop\\ProgramowanieObiektowe\\Rozdzial2\\Rozdzial2\\Rozdzial2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\galli\\Desktop\\Programowanie_obiektowe\\Rozdzial2\\Rozdzial2\\Rozdzial2.csproj",
+        "projectUniqueName": "C:\\Users\\Stan\\Desktop\\ProgramowanieObiektowe\\Rozdzial2\\Rozdzial2\\Rozdzial2.csproj",
         "projectName": "Rozdzial2",
-        "projectPath": "C:\\Users\\galli\\Desktop\\Programowanie_obiektowe\\Rozdzial2\\Rozdzial2\\Rozdzial2.csproj",
-        "packagesPath": "C:\\Users\\galli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\galli\\Desktop\\Programowanie_obiektowe\\Rozdzial2\\Rozdzial2\\obj\\",
+        "projectPath": "C:\\Users\\Stan\\Desktop\\ProgramowanieObiektowe\\Rozdzial2\\Rozdzial2\\Rozdzial2.csproj",
+        "packagesPath": "C:\\Users\\Stan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Stan\\Desktop\\ProgramowanieObiektowe\\Rozdzial2\\Rozdzial2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\galli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Stan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
