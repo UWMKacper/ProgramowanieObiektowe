@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Stan\\Desktop\\ProgramowanieObiektowe\\Rozdzial2\\Rozdzial2\\Rozdzial2.csproj": {}
+    "C:\\Users\\Stan\\Desktop\\ProgramowanieObiektowe\\Rozdzial3\\Rozdzial 3\\Rozdzial 3\\Rozdzial 3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Stan\\Desktop\\ProgramowanieObiektowe\\Rozdzial2\\Rozdzial2\\Rozdzial2.csproj": {
+    "C:\\Users\\Stan\\Desktop\\ProgramowanieObiektowe\\Rozdzial3\\Rozdzial 3\\Rozdzial 3\\Rozdzial 3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Stan\\Desktop\\ProgramowanieObiektowe\\Rozdzial2\\Rozdzial2\\Rozdzial2.csproj",
-        "projectName": "Rozdzial2",
-        "projectPath": "C:\\Users\\Stan\\Desktop\\ProgramowanieObiektowe\\Rozdzial2\\Rozdzial2\\Rozdzial2.csproj",
+        "projectUniqueName": "C:\\Users\\Stan\\Desktop\\ProgramowanieObiektowe\\Rozdzial3\\Rozdzial 3\\Rozdzial 3\\Rozdzial 3.csproj",
+        "projectName": "Rozdzial 3",
+        "projectPath": "C:\\Users\\Stan\\Desktop\\ProgramowanieObiektowe\\Rozdzial3\\Rozdzial 3\\Rozdzial 3\\Rozdzial 3.csproj",
         "packagesPath": "C:\\Users\\Stan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Stan\\Desktop\\ProgramowanieObiektowe\\Rozdzial2\\Rozdzial2\\obj\\",
+        "outputPath": "C:\\Users\\Stan\\Desktop\\ProgramowanieObiektowe\\Rozdzial3\\Rozdzial 3\\Rozdzial 3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Stan\\AppData\\Roaming\\NuGet\\NuGet.Config",
